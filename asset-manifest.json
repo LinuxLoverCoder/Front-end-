@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffe34ec7.css",
+    "main.js": "/static/js/main.9cbac340.js",
+    "static/js/787.488e87ae.chunk.js": "/static/js/787.488e87ae.chunk.js",
+    "static/media/youtube-share1.png": "/static/media/youtube-share1.6a13139dd50f5d0b8662.png",
+    "static/media/banner-background.png": "/static/media/banner-background.607dae6608470c27dc90.png",
+    "static/media/VideoThumbnail.png": "/static/media/VideoThumbnail.9fa9808b7b0f21509cd6.png",
+    "static/media/youtube-share2.png": "/static/media/youtube-share2.54340baec73a58e980e4.png",
+    "static/media/logo-artec.png": "/static/media/logo-artec.50c305aae3c62f6edd31.png",
+    "static/media/pdf-download.svg": "/static/media/pdf-download.df8684e8b78c2125c70e79292677fcd1.svg",
+    "static/media/pencil-solid.svg": "/static/media/pencil-solid.3a86e1e08c93d505d3ca860510d299ab.svg",
+    "static/media/circle-xmark-solid.svg": "/static/media/circle-xmark-solid.dec3554733e0aedcc28eb0f707be760e.svg",
+    "static/media/youtube-brands.svg": "/static/media/youtube-brands.574cb41828c858a6a04c0974b016c32d.svg",
+    "index.html": "/index.html",
+    "static/media/bars-solid.svg": "/static/media/bars-solid.df807f7186f0a9ead9d0a367cb6a292f.svg",
+    "main.ffe34ec7.css.map": "/static/css/main.ffe34ec7.css.map",
+    "main.9cbac340.js.map": "/static/js/main.9cbac340.js.map",
+    "787.488e87ae.chunk.js.map": "/static/js/787.488e87ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.9cbac340.js"
+  ]
+}
